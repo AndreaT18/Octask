@@ -56,7 +56,3 @@ The system implements a "Limbo State" (`MODE_ERROR_FIX`) to prevent desynchroniz
 3.  Connect your board and select the correct Port.
 4.  Upload! 🐙
 
----
-
-## 👥 Credits
-Developed by [Tuonome], [NomeCompagno], [NomeCompagno].
